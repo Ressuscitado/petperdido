@@ -3,13 +3,13 @@ import { Pet } from "../types/Pet";
 export const pets: Pet[] = [
     {
       id: "1",
-      nome: "Ted",
-      imagem: "/assets/dog1.jpg",
+      nome: "Mokona",
+      imagem: "/assets/dog1.jpeg",
       especie: "Cachorro",
       raca: "Cofap",
       localizacao: "Goiânia, GO",
       contato: "62 91234-5678",
-      descricao: "Ted foi visto por ultimo na rua das flores no setor Bueno."
+      descricao: "Mokona foi vista por ultimo na rua das flores no setor Bueno."
     },
     {
       id: "2",
@@ -24,7 +24,7 @@ export const pets: Pet[] = [
     {
       id: "3",
       nome: "Thor",
-      imagem: "/assets/dog2.png",
+      imagem: "/assets/dog2.jpeg",
       especie: "Cachorro",
       raca: "Vira-lata",
       localizacao: "Goiânia, GO",
